@@ -1,11 +1,11 @@
 Nama Aplikasi: Hitung Keuangan
 
 Kelompok 4
-Ruli M Kustiana(2106147)
-
-Ulfah Nurhasanah(2106135)
-
-Dede Hermawan(2106163)
+<ul>
+  <li>Ruli M Kustiana(2106147)</li>
+  <li>Ulfah Nurhasanah(2106135)</li>
+  <li>Dede Hermawan(2106163)</li>
+</ul>
 
 # Hitung Keuangan
 
