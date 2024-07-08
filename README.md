@@ -1,4 +1,4 @@
-Nama Aplikasi: Hitung Keuangan
+Nama Aplikasi: KeuanganKu
 
 Kelompok 4
 <ul>
